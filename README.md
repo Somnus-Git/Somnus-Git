@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Somnus-Git also known as Kevin Prather
+- 👋 Hi, I’m @Somnus-Git
 
 - 👀 I’m interested in primarily software engineering and full stack development. I like to be aware of the full scope of projects and understand how and why everything is happening
       from one point in the code to the other.
